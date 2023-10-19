@@ -3,7 +3,7 @@ DynV6 update cliente running as windows service.
 
 Use Lazarus to compile.
 Uses ControlTimer and laz_synapse.
-Theres a compiled last version inside the folder DynV6 alongside with libeay32.dll and ssleay32.dll.
+Uses libeay32.dll and ssleay32.dll.
 This is a x64 exe and dll versions.
 
 Ini file must contain:
