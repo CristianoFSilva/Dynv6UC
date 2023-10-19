@@ -1,0 +1,10 @@
+object Daemon1: TDaemon1
+  OldCreateOrder = False
+  OnStart = DataModuleStart
+  AfterInstall = DataModuleAfterInstall
+  Height = 322
+  HorizontalOffset = 824
+  VerticalOffset = 299
+  Width = 242
+  PPI = 96
+end
